@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Abyss",
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false,
+    "explorer.openEditors.visible": 0,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderIndentGuides": false,
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontWeight": "600",
+    "editor.fontSize": 24,
+    "terminal.integrated.fontWeight": "800",
+    "terminal.integrated.fontSize": 28,
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "editor.formatOnSave": false,
+  }
